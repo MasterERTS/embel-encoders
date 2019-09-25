@@ -2,7 +2,7 @@
 
 int gOldValueEncoder;
 int gCounter = 0;
-bool usingEncoders = false;
+int gTimeStamp = 0;
 int gShutdownCounter = 0;
 bool gShutdownState = false;
 
